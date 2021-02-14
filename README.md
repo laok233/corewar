@@ -1,2 +1,2 @@
 # corewar
-a mod for a server.
+A mod for mindustry multiplayer mode.
